@@ -1,6 +1,5 @@
 # Web3-and-Blockchain-
 
-Here’s a similar structured format for your problem statements on **Insurance Fraud** and **Cross-Border Payments**:
 
 ---
 
